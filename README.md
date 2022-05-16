@@ -1,16 +1,25 @@
 ### Hi there 👋
 
 
-Amazed by this quote:
-“For the strength of the Pack is the Wolf, and the strength of the Wolf is the Pack.”
-― Rudyard Kipling, The Jungle Book
+- ⚡ Fun fact:
 
-I discovered this quote watching at Netflix show The Last Dance.
-
+What inspire me
 Sometimes lost in some random ted talk:
-- [https://www.youtube.com/watch?v=5MgBikgcWnY](https://www.youtube.com/watch?v=5MgBikgcWnY)
-- 
+- [The first 20 hours -- how to learn anything | Josh Kaufman | TEDxCSU](https://www.youtube.com/watch?v=5MgBikgcWnY)
+- [The skill of self confidence | Dr. Ivan Joseph | TEDxRyersonU](https://www.youtube.com/watch?v=w-HYZv6HzAs)
+- [Master Shi Heng Yi – 5 hindrances to self-mastery | Shi Heng YI | TEDxVitosha](https://www.youtube.com/watch?v=4-079YIasck)
+- [Stop searching for your passion | Terri Trespicio | TEDxKC](https://www.youtube.com/watch?v=6MBaFL7sCb8)
+- [The Secret of Becoming Mentally Strong | Amy Morin | TEDxOcala](https://www.youtube.com/watch?v=TFbv757kup4)
 
+This beautiful motivation song
+- [The Alan Parsons Project - Sirius (Original)](https://www.youtube.com/watch?v=feoHV5JUbuo)
+
+"For the strength of the Pack is the Wolf, and the strength of the Wolf is the Pack."
+― Rudyard Kipling, The Jungle Book
+I discovered this quote watching at Netflix doc miniseries The Last Dance.
+
+- 🔭 I’m currently working on ansible-playbook scripts to manage ssl certificates, and ansible-playbook scripts in order to install IBM MQS software on several rhel vms.
+- 🌱 I’m currently learning Italian Diction because I'd like to speak in public and I like reading out loud. It relax me.
 <!--
 **rhacrsse/rhacrsse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
