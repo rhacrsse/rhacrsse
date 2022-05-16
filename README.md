@@ -11,7 +11,7 @@ Sometimes lost in some random ted talk:
 - [Stop searching for your passion | Terri Trespicio | TEDxKC](https://www.youtube.com/watch?v=6MBaFL7sCb8)
 - [The Secret of Becoming Mentally Strong | Amy Morin | TEDxOcala](https://www.youtube.com/watch?v=TFbv757kup4)
 
-This beautiful motivation song
+This beautiful motivational song
 - [The Alan Parsons Project - Sirius (Original)](https://www.youtube.com/watch?v=feoHV5JUbuo)
 
 "For the strength of the Pack is the Wolf, and the strength of the Wolf is the Pack."
