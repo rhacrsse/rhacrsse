@@ -3,6 +3,9 @@
 
 - ⚡ Fun fact:
 
+MIT Lecture, Patrick Winston
+- [How to Speak](https://www.youtube.com/watch?v=Unzc731iCUY)
+
 What inspire me
 Sometimes lost in some random ted talk:
 - [How to Have a Good Conversation | Celeste Headlee | TEDxCreativeCoast](https://www.youtube.com/watch?v=H6n3iNh4XLI)
