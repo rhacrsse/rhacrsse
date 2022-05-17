@@ -5,6 +5,7 @@
 
 What inspire me
 Sometimes lost in some random ted talk:
+- [How to Have a Good Conversation | Celeste Headlee | TEDxCreativeCoast](https://www.youtube.com/watch?v=H6n3iNh4XLI)
 - [The first 20 hours -- how to learn anything | Josh Kaufman | TEDxCSU](https://www.youtube.com/watch?v=5MgBikgcWnY)
 - [The skill of self confidence | Dr. Ivan Joseph | TEDxRyersonU](https://www.youtube.com/watch?v=w-HYZv6HzAs)
 - [Master Shi Heng Yi – 5 hindrances to self-mastery | Shi Heng YI | TEDxVitosha](https://www.youtube.com/watch?v=4-079YIasck)
