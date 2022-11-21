@@ -14,6 +14,7 @@ Sometimes lost in some random ted talk:
 - [Master Shi Heng Yi – 5 hindrances to self-mastery | Shi Heng YI | TEDxVitosha](https://www.youtube.com/watch?v=4-079YIasck)
 - [Stop searching for your passion | Terri Trespicio | TEDxKC](https://www.youtube.com/watch?v=6MBaFL7sCb8)
 - [The Secret of Becoming Mentally Strong | Amy Morin | TEDxOcala](https://www.youtube.com/watch?v=TFbv757kup4)
+- [Your body language may shape who you are | Amy Cuddy](https://www.youtube.com/watch?v=Ks-_Mh1QhMc)
 
 This beautiful motivational song
 - [The Alan Parsons Project - Sirius (Original)](https://www.youtube.com/watch?v=feoHV5JUbuo)
