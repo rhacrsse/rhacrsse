@@ -6,8 +6,8 @@
 MIT Lecture, Patrick Winston
 - [How to Speak](https://www.youtube.com/watch?v=Unzc731iCUY)
 
-What inspire me
-Sometimes lost in some random ted talk:
+What inspires me
+Sometimes lost in some random TED talk:
 - [How to Have a Good Conversation | Celeste Headlee | TEDxCreativeCoast](https://www.youtube.com/watch?v=H6n3iNh4XLI)
 - [The first 20 hours -- how to learn anything | Josh Kaufman | TEDxCSU](https://www.youtube.com/watch?v=5MgBikgcWnY)
 - [The skill of self confidence | Dr. Ivan Joseph | TEDxRyersonU](https://www.youtube.com/watch?v=w-HYZv6HzAs)
@@ -21,10 +21,10 @@ This beautiful motivational song
 
 "For the strength of the Pack is the Wolf, and the strength of the Wolf is the Pack."
 ― Rudyard Kipling, The Jungle Book
-I discovered this quote watching at Netflix doc miniseries The Last Dance.
+I discovered this quote while watching at Netflix doc miniseries The Last Dance.
 
-- 🔭 I’m currently working on ansible-playbook scripts to manage ssl certificates, and ansible-playbook scripts in order to install IBM MQS software on several rhel vms.
-- 🌱 I’m currently learning Italian Diction because I'd like to speak in public and I like reading out loud. It relax me.
+- 🔭 I’m currently working on ansible-playbook scripts to manage SSL certificates, and ansible-playbook scripts in order to install IBM MQS software on several RHEL VMs.
+- 🌱 I’m currently learning Italian Diction because I'd like to speak in public and I like reading out loud. It relaxes me.
 <!--
 **rhacrsse/rhacrsse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
